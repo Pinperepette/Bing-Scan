@@ -3,9 +3,9 @@ Bing Dork Scanner
 
 This is a simple script with GUI, to extract urls from a bing search.
 
-Support HTTP proxy only.
+Support only HTTP proxy.
 
-Dependencies Modules:
+Required Perl Modules:
 
 * LWP
 * Gtk2
@@ -14,3 +14,9 @@ Dependencies Modules:
 * threads
 * threads::shared
 * URI::Escape
+
+Preview:
+
+![Bing_scanner](https://dl.dropboxusercontent.com/u/53811115/bs.png)
+
+My blog: http://hc0der.blogspot.com.br
