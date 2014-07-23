@@ -1,0 +1,6 @@
+
+style "frame_title" {
+	fg[NORMAL] = 'blue'
+}
+
+widget_class "*.<GtkFrame>.<GtkLabel>" style "frame_title"
